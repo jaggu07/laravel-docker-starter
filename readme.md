@@ -29,3 +29,6 @@ phpd artisan optimize
 phpd artisan migrate
 phpd artisan passport:install
 ```
+Reference 
+
+https://medium.com/@mazraara/laravel-and-docker-7b6f7187f8f9
